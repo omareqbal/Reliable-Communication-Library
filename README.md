@@ -1,4 +1,4 @@
-# Reliable-Communication-Library
+# Reliable Communication Library
 
 This library provides reliable communication over an unreliable link. It provides a message-oriented, reliable, exactly-once delivery communication layer over UDP sockets using timeout and retransmissions.
 
